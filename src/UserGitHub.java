@@ -1,4 +1,2 @@
-package PACKAGE_NAME;
-
-public record userGitHub() {
+public record UserGitHub(String name, String bio) {
 }
